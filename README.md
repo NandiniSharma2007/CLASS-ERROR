@@ -1,1 +1,2 @@
-# CLASS-ERROR
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
